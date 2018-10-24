@@ -32,7 +32,8 @@ RankBrain có hai công việc chính
 
 2. Đo lường cách người dùng tương tác với kết quả (sự hài lòng của người dùng)
 
-Hãy chia nhỏ từng phần.
+Hãy phân tích từng phần.
+
 ### Làm thế nào RankBrain hiểu được bất kỳ từ khóa nào mà bạn tìm kiếm
 Một vài năm trước, Google đã có một vấn đề :
 
@@ -46,9 +47,9 @@ Nhưng bởi vì những từ khóa này là thương hiệu mới, Google khôn
 
 Ví dụ: giả sử bạn đã tìm kiếm “the grey console developed by Sony”. Google sẽ tìm các trang có chứa các từ “grey”, “console”, “developed” vaf “Sony”.
 
-Hôm nay, RankBrain thực sự hiểu những gì bạn đang yêu cầu. Và nó cung cấp một bộ kết quả chính xác 100%:
+Ngày nay, RankBrain thực sự hiểu những gì bạn đang yêu cầu. Và nó cung cấp một bộ kết quả chính xác 100%:
 
-Không tệ.
+Không tệ nhỉ.
 
 Những gì đã thay đổi? Trước đây, Google sẽ cố gắng đối sánh các từ trong truy vấn tìm kiếm của bạn với các từ trên một trang.
 
@@ -58,7 +59,7 @@ Làm như thế nào? Bằng cách đối sánh các từ khóa chưa từng th�
 
 Ví dụ, Google RankBrain có thể đã nhận thấy rằng rất nhiều người tìm kiếm "grey console developed by Nintendo”".
 
-Và chúng đã học được rằng những người tìm kiếm “grey console developed by Nintendo” muốn xem một tập hợp các kết quả về gaming consoles .
+Và chúng đã học được rằng những người tìm kiếm “grey console developed by Nintendo” muốn xem một tập hợp các kết quả về tay cầm chơi game.
 
 Vì vậy, khi ai đó tìm kiếm  “the grey console developed by Sony”, RankBrain sẽ trả về các kết quả tương tự với từ khóa mà nó đã biết(“grey console developed by Nintendo”).
 
@@ -94,14 +95,15 @@ Và nếu bạn ghét nó? Họ sẽ loại bỏ trang đó và thay thế bằn
 Nó rất chú ý đến cách bạn tương tác với kết quả tìm kiếm. Cụ thể, nó xem xét:
 
   - Organic Click-Through-Rate
-  - Dwell Time
-  - Bounce Rate
-  - Pogo-sticking
+  - Thời gian sống 
+  - Tỉ lệ thoát 
+  - tỉ lệ quay lại trang
+  
 Đây được gọi là tín hiệu trải nghiệm người dùng (tín hiệu UX).
 
 Hãy xem một ví dụ:
 
-Bạn bị căng cơ khi chơi tennis. Vì vậy, bạn tìm kiếm "pulled back muscle" trên Google.
+Bạn bị căng cơ khi chơi tennis. Vì vậy, bạn tìm kiếm "bị căng cơ lưng" trên Google.
 
 Giống như hầu hết mọi người, bạn nhấp vào kết quả đầu tiên . Thật không may, phần giới thiệu chứa nội dung không rõ ràng  (“Lưng của bạn là một nhóm cơ quan trọng…”).
 
