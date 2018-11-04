@@ -270,170 +270,161 @@ Vì vậy, để hợp lý thì RankBrain sẽ đo lường Dwell Time —  và 
 Trên thực tế, một nhân viên của Google gần đây đã nói rằng Google đã sử dụng 100% dấu hiệu  off-page (đặc biệt là backlinks). Mặc dù Google vẫn sử dụng backlinks, nhân viên này đã chỉ ra rằng:
 
 Và sao lưu dữ liệu này. Khi chúng tôi phân tích một tập hợp lớn các kết quả tìm kiếm của Google, chúng tôi đã tìm thấy mối tương quan giữa xếp hạng cao và tỷ lệ thoát thấp:
-### How to Reduce Bounce Rate and Boost Dwell Time
-Now it’s time for me to share a few simple strategies that you can use to increase your site’s dwell time.
-**Push Your Content Above the Fold**
-When someone clicks on your site from Google, they want their question answered NOW.
 
-In other words, they don’t want to scroll down to read your content.
+### Làm thế nào để giảm Bounce Rate và tăng Dwell Time
+Bây giờ là lúc để tôi chia sẻ một vài chiến lược đơn giản mà bạn có thể sử dụng để tăng dwell time của trang web.
+**Đẩy nội dung của bạn lên trên màn hình đầu tiên**
+Khi ai đó nhấp vào trang web của bạn từ Google, họ muốn câu hỏi của họ được trả lời NGAY.
 
-That’s why I highly recommend removing anything that pushes your content below the fold, like this:
+Nói cách khác, họ không muốn cuộn xuống để đọc nội dung của bạn.
 
-Instead, you want the first sentence of your content front-and-center:
+Đó là lý do tại sao tôi khuyên bạn nên xóa mọi thứ khiến nội dung của bạn xuống dưới màn hình đầu tiên, như sau:
 
-That way, you’ll hook your reader right off the bat.
+Thay vào đó, bạn muốn câu đầu tiên của nội dung phải ở phía trước và  trung tâm:
 
-**Use Short Intros (5-10 Sentences MAX)**
-Believe it or not, but I spend MORE time on my intros than my headlines.
+Bằng cách đó, bạn sẽ thu hút người đọc của bạn ngay lập tức.
 
-That’s because your intro is where 90% of your readers decide to stay… or go.
+**Sử dụng phần giới thiệu ngắn (Tối đa 5-10 câu)**
+Tin hay không, nhưng tôi dành nhiều thời gian hơn cho phần giới thiệu của tôi hơn là tiêu đề của tôi.
 
-And after A LOT of testing I’ve found that short intros work best.
+Đó là vì phần giới thiệu của bạn là nơi mà 90% độc giả của bạn quyết định ở lại… hoặc đi.
 
-Why?
+Và sau rất nhiều thử nghiệm, tôi đã thấy rằng phần giới thiệu ngắn hoạt động tốt nhất.
 
-When someone searches for something in Google, they already know about that topic. So there’s no need for a massive intro.
+Tại sao?
 
-Instead, use your intro to sell the content they’re about to read, like this:
+Khi ai đó tìm kiếm thứ gì đó trên Google, họ đã biết về chủ đề đó. Vì vậy, không cần một phần giới thiệu dài dòng.
 
-When someone searches for “white hat SEO” reads that intro they think: “Awesome! I’m in the right place.”
-**Publish Long, In-Depth Content**
-I’ve tested this ten ways to Tuesday. And I can tell you with confidence that:
+Thay vào đó, hãy sử dụng phần giới thiệu của bạn để hiển thị ra nội dung mà họ sắp đọc, như sau:
 
-Longer content=better Dwell Time.
+Khi ai đó tìm kiếm  “white hat SEO” họ sẽ đọc phần giới thiệu và nghĩ: “Tuyệt vời! Tôi đang ở đúng nơi.”
+**Xuất bản nội dung dài, chuyên sâu**
+Tôi đã thử nghiệm mười cách cho đến thứ ba. Và tôi có thể tự tin nói với bạn rằng:
 
-Obviously, it takes longer to read a 2000-word guide than a 400-word blog post. But that’s only part of the equation.
+Nội dung dài hơn = Dwell Time cao hơn.
 
-The other reason that long form content improves Dwell Time is the fact that longer content can fully answer a searcher’s query.
+Rõ ràng, phải mất nhiều thời gian hơn để đọc hướng dẫn từ 2000 từ một bài đăng trên blog dài 400 từ. Nhưng đó chỉ là một phần của cách này.
 
-For example, let’s say that you search for “how to run a marathon”.
+Lý do khác khiến nội dung biểu mẫu dài cải thiện Dwell Time là nội dung dài hơn có thể trả lời đầy đủ câu hỏi của người tìm kiếm.
 
-And the first result that you click on is a 300-word post. It kinda sorta answers your question… but leaves you wanting more.
+Ví dụ: giả sử bạn tìm kiếm “how to run a marathon”.
 
-So you click on your back button to find something better (as you might remember, Google calls this “Pogo-sticking”).
+Và kết quả đầu tiên mà bạn nhấp vào là bài viết 300 từ. Nó đã trả lời được câu hỏi của bạn… nhưng bạn muốn nhiều hơn nữa.
 
-And this time you hit the jackpot.
+Vì vậy, bạn bấm vào nút quay lại của bạn để tìm một cái gì đó tốt hơn (như bạn có thể nhớ, Google gọi đây là “Pogo-sticking”).
 
-You find a comprehensive guide that covers EVERYTHING you need to know about running a marathon.
+Và lần này bạn trúng số độc đắc.
 
-So you grab a cup of coffee and read the guide from start to finish. You even re-read certain sections. All this reading is racking up serious Dwell Time.
+Bạn tìm thấy hướng dẫn toàn diện bao gồm mọi thứ bạn cần biết về việc chạy marathon.
 
-Long form content works so well that I tend to ONLY publish content that’s at least 2,000 words.
+Vì vậy, bạn lấy một tách cà phê và đọc hướng dẫn từ đầu đến cuối. Bạn thậm chí còn đọc lại một số phần nhất định. Tất cả những bài đọc này đều có Dwell Time nghiêm túc.
 
-**Break Up Your Content Into Bite Size Chunks**
-Let’s face it:
+Nội dung dạng dài hoạt động tốt đến mức tôi CHỈ xuất bản nội dung có ít nhất 2.000 từ.
 
-Reading 2,000 words is HARD.
+**Chia nhỏ nội dung của bạn thành các khối có kích thước nhỏ**
+Hãy đối mặt với nó:
 
-And it’s even harder if those 2,000 words are presented as a giant wall of text.
+Đọc 2.000 từ là rất cực nhọc.
 
-Fortunately, there’s a simple way to get around this problem: subheaders.
+Và nó còn khó hơn nếu 2.000 từ đó được trình bày như một bức tường văn bản khổng lồ.
 
-Subheaders break up your content into digestible, bite-size chunks. This improves readability, and therefore, Dwell Time.
+May mắn thay, có một cách đơn giản để giải quyết vấn đề này: tiêu đề phụ.
 
-I use LOTS of subheaders at Backlinko for this exact reason:
+Tiêu đề phụ chia nhỏ nội dung của bạn thành các phần có kích thước nhỏ. Điều này cải thiện khả năng đọc và do đó sẽ cải thiện Dwell Time.
 
-Specifically, I try to toss in a subheader for every 200 words of content.
+Tôi sử dụng rất nhiều tiêu đề phụ trong Backlinko vì lý do này:
 
-> Pro Tip: Avoid boring subheaders like “Backhand Drills” or “Stay Hydrated”. Instead, pack your subheaders with emotion. For example: “3 Simple Backhand Drills The Pros Use” and “What New Research Says About Staying Hydrated.”
-## CHAPTER 6: Bonus RankBrain Optimization Strategies and Case Studies
-In this chapter I’m going to cover a handful of quick strategies that you can use to optimize your site for RankBrain.
+Cụ thể, tôi cố gắng tạo ra một tiêu đề phụ cho mỗi 200 từ nội dung.
+
+> Mẹo hay: Tránh các tiêu đề phụ nhàm chán như “Backhand Drills” hoặc “Stay Hydrated”. Thay vào đó, hãy đóng gói các tiêu đề phụ của bạn bằng cảm xúc. Ví dụ : “3 Simple Backhand Drills The Pros Use” và “What New Research Says About Staying Hydrated.”
+## CHAPTER 6: Chiến lược tối ưu hóa RankBrain và các nghiên cứu điển hình.
+Trong chương này, tôi sẽ giới thiệu một số chiến lược nhanh mà bạn có thể sử dụng để tối ưu hóa trang web của mình cho RankBrain.
 ### Increase Brand Awareness. Improve CTR
-I already showed you how numbers, emotions and Power Words can improve your organic CTR.
+Tôi đã chỉ cho bạn cách như thêm số, cảm xúc và từ ngữ mạnh để có thể cải thiện CTR mà không phải trả phí.
 
-But there’s another HUGE variable that I haven’t mentioned: brand awareness.
+Nhưng có một cách khổng lồ khác mà tôi chưa đề cập đó là : Nhận thức về thương hiệu
 
-Needless to say, if someone knows your brand, they’re more likely to click on your site in the search results. In fact, data from WordStream found that brand awareness can increase CTR by up to 342%!
+Không cần phải nói, nếu ai đó biết thương hiệu của bạn, họ có nhiều khả năng nhấp vào trang web của bạn hơn trong kết quả tìm kiếm. Trên thực tế, dữ liệu từ WordStream nhận thấy rằng nhận thức về thương hiệu có thể tăng CTR lên tới 342%!
 
-For example, take a look at these search results:
+Ví dụ: hãy xem các kết quả tìm kiếm sau:
 
-Which two sites are you most likely to click on? NYTimes.com and Simply Recipes of course!
+Bạn có nhiều khả năng nhấp vào hai trang web nào nhất? tất nhiên là NYTimes.com và Simply Recipes !
 
-In other words, you want people to know about your brand BEFORE they search in Google.
+Nói cách khác, bạn muốn mọi người biết về thương hiệu của bạn TRƯỚC KHI họ tìm kiếm trong Google.
 
-How can you increase your brand’s awareness?
+Làm thế nào bạn có thể tăng nhận thức về thương hiệu của bạn?
 
-**First, try Facebook ads.**
+**Đầu tiên, hãy thử quảng cáo FB.**
 
-Even if people don’t click and convert, Facebook ads can put your brand in front of lots of eyeballs.
+Thậm chi nếu người dùng không click và chuyển hướng, Facebook ads có thể đặt thương hiệu của bạn tiếp cận rất nhiều người
 
-And when those eyeballs are scanning the search results, they’re MUCH more likely to click on your result.
+Và khi họ xem kết quả tìm kiếm, thì họ có nhiều khả năng nhấp vào kết quả của bạn hơn.
 
 **Also, create an insanely valuable email newsletter.**
 
-Nothing increases brand awareness more than sending valuable content to people’s inboxes.
+Không có gì làm tăng nhận thức về thương hiệu hơn là gửi nội dung có giá trị đến hộp thư của mọi người.
 
-In fact, my open rates are well above industry average because I only send good stuff:
+Thực tế, tỷ lệ truy cập của tôi cao hơn mức trung bình của ngành bởi vì tôi chỉ gửi những thứ tốt:
 
-Needless to say, my subscribers have learned that my material is the best in the business. So when Backlinko shows up on page 1, they’re much more likely to click on my result.
+Không cần phải nói, những người đăng ký của tôi đã học được rằng tài liệu của tôi là tốt nhất trong kinh doanh. Vì vậy, khi Backlinko xuất hiện trên trang 1, họ có nhiều khả năng nhấp vào kết quả của tôi hơn.
 
-**Finally, do a “Content Blitz”.**
-A “Content Blitz” is where you release a ton of content in a short period of time. And trust me: this is WAY more powerful than dripping content over the course of the year.
+**Cuối cùng ,hãy thực hiện “Content Blitz”.**
+ “Content Blitz” là bạn sẽ phát hành rất nội dung trong một khoảng thời gian ngắn. Và hãy tin tôi: đây là cách tốt hơn nhiều so với nội dung nhỏ giọt trong suốt cả năm
 
-In fact, I used a Content Blitz when I first started Backlinko.
+Trong thực tế, tôi đã sử dụng Content Blitz khi lần đầu tiên tối bắt đầu với Backlinko.
 
-I published guest posts:
+Tôi đã xuất bản bài đăng của khách:
 
-I went on Podcasts:
+Tôi đã vào Podcasts:
 
-I even co-authored a guide with Neil Patel:
+Tôi thậm chí là đồng tác giả của một hướng dẫn với Neil Patel:
 
-(All within a span of a few months)
+(Tất cả trong vài tháng)
 
-And this helped take Backlinko from “What’s that?” to “What an awesome site!” in record time.
+Và điều này đã giúp Backlinko từ "Cái gì vậy?" Đến "Thật là một trang tuyệt vời!" Trong thời gian kỷ lục.
 
-### Turn “Zeros” to “Heros”
-Do you have a page on your site that didn’t do as well as you’d hoped?
+### Biến “Zeros” thành “Heros”
+Bạn có một trang trên trang web của mình không hoạt động tốt như bạn mong muốn không?
 
-I have great news: if you go back and optimize that page for RankBrain, you can give it a SERIOUS rankings boost.
+Tôi có tin tuyệt vời: nếu bạn quay trở lại và tối ưu hóa trang đó cho RankBrain, bạn có thể giúp nó một thứ hạng tăng đáng kể.
 
-For example, Sean from Proven.com had a huge guide on his site that was doing OK… but wasn’t ranking as well as he had hoped.
+Ví dụ, Sean từ Proven.com đã có một hướng dẫn rất lớn trên trang web của mình đã làm OK ... nhưng không được xếp hạng cũng như ông đã hy vọng.
 
-And Sean realized his page’s title tag wasn’t compelling to click on:
+Và Sean nhận thấy thẻ tiêu đề của trang của mình không hấp dẫn để nhấp vào:
 
-So he added a number, a Power Word and parentheses to his title tag:
+Vì vậy, ông đã thêm một số, một Power Word và dấu ngoặc đơn vào thẻ tiêu đề của mình:
 
-And this single change increased Sean’s organic traffic to that page by nearly 128%:
+Và thay đổi duy nhất này là lưu lượng truy cập vào trang đó lên gần 128%:
 
-Yes, some of that traffic boost was due to the simple fact that more people were clicking on Sean’s result.
+Vâng, lưu lượng truy cập đó tăng đơn giản là có nhiều người đã nhấp vào kết quả của Sean.
 
-But the BIG part of the story was that RankBrain noticed the CTR increase… and nudged Sean’s page up a few spots:
+Nhưng phần quan trọng của câu chuyện là RankBrain nhận thấy sự tăng CTR ... và đẩy trang của Sean lên một vài điểm:
 
-### Use LSI Keywords to Fill in “Content Gaps”
+### Sử dụng từ khóa LSI để thêm vào “Content Gaps”
 
-LSI Keywords are words and phrases related to your content’s main topic.
+Từ khóa LSI là các từ và cụm từ có liên quan đến chủ đề chính của nội dung của bạn.
 
-Why are LSI Keywords important? Well, they give RankBrain the context they need to fully understand your page.
+Tại sao từ khóa LSI lại quan trọng? Vâng, nó cho RankBrain bối cảnh để hiểu đầy đủ trang của bạn.
 
-For example, let’s say that you’re writing a guide about link building.
+Ví dụ: giả sử bạn đang viết hướng dẫn về xây dựng link.
 
-LSI Keywords are things like:
+Từ khóa LSI là những thứ như:
 
 Backlinks
 Domain Authority
 Email outreach
 Anchor text
-And when RankBrain sees that your content includes these terms, they’re confident that your page is about link building…
+Và khi RankBrain thấy rằng nội dung của bạn bao gồm các cụm từ này, nó tin rằng trang của bạn là về xây dựng link…
 
-…which means you’re more likely to rank for keywords related to that topic.
+…có nghĩa là bạn có nhiều khả năng xếp hạng cho các từ khóa có liên quan đến chủ đề đó.
 
-You can uncover LSI keywords with the Watson Natural Language Understanding Tool.
+Bạn có thể tìm ra các từ khóa LSI bằng  Watson Natural Language Understanding Tool.
 
-This tool analyzes content that you give it for concepts, entities and categories.
+Công cụ này phân tích nội dung mà bạn cung cấp cho các khái niệm, thực thể và danh mục.
 
-For example, when I pasted in the first draft of this guide, it spit out concepts that were related to RankBrain.
+Ví dụ, khi tôi dán vào bản nháp đầu tiên của hướng dẫn này, nó cho ra các khái niệm liên quan đến RankBrain.
 
-The interesting part is that I didn’t mention many of these terms in the guide. Like RankBrain, Watson understands what my content is about. Very cool.
+Điều thú vị là tôi không đề cập đến nhiều thuật ngữ trong hướng dẫn này. Giống như RankBrain, Watson hiểu nội dung của tôi là gì. Rất tuyệt.
 
-And when you sprinkle these LSI keywords into your post, you’ll confirm to RankBrain that your content is comprehensive.
+Và khi bạn rải các từ khóa LSI này vào bài đăng của mình, bạn sẽ xác nhận với RankBrain rằng nội dung của bạn là toàn diện.
 
-## Now It’s Your Turn
-Phew! I put A TON of work into this guide. So I hope you enjoyed it.
-
-Now I’d like to hear what you have to say.
-
-What’s the #1 tip that you’re going to implement?
-
-Are you going to focus on CTR? Use LSI keywords? Or improve your content’s Dwell Time?
-
-Let me know by leaving a comment below.
