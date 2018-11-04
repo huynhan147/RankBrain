@@ -252,24 +252,24 @@ Vì vậy, bạn muốn thêm cụm từ “grass fed” vào thẻ mô tả c�
 Google sẽ  bôi đậm nó , có thể giúp kết quả của bạn nổi bật:
 
 
-## CHAPTER 5:How to Optimize Your Content for Bounce Rate and Dwell Time
-OK so you used my CTR-boosting tips. And more people are clicking on your result than ever before.
+## CHAPTER 5:Cách tối ưu nội dung của bạn để cải thiện Bounce Rate(Tỷ lệ thoát) và Dwell Time (Thời gian ở lại trang)
+OK vì vậy bạn đã sử dụng các mẹo tăng CTR của tôi. Và số lượng người nhấp vào kết quả của bạn nhiều hơn bao giờ hết.
 
-Now what? Well, you need to show Google that your result makes their users happy.
+Bây giờ thì sao? Vâng, bạn cần phải cho Google thấy rằng kết quả của bạn làm cho người dùng của họ hài lòng.
 
-And the best way to do that? Improve your dwell time.
-### Does Google REALLY Use Dwell Time? Yup!
-Dwell time is the amount of time a Google searcher spends on your site after clicking on your result.
+Và cách tốt nhất để làm điều đó là gì? Cải thiện Dwell Time của bạn.
+### Google có THỰC SỰ sử dụng Dwell Time? Yup!
+Dwell time là lượng thời gian mà một người tìm kiếm Google ở trên trang web của bạn sau khi nhấp vào kết quả của bạn.
 
-Obviously, the longer someone spends on your page, the better. This tells Google: “Man, people are LOVING this result. Let’s bump it up a few spots”.
+Rõ ràng, càng nhiều người dành nhiều thời gian trên trang của bạn thì càng tốt. Điều này nói với Google: "Man, mọi người đang THÍCH kết quả này. Chúng ta hãy đẩy nó lên một vài điểm ”.
 
-And if someone bounces from your site after 2 seconds, that tells Google: “This result stinks! Let’s drop it down a few spots”.
+Và nếu một người nào đó thoát trang web của bạn sau 2 giây, điều đó sẽ cho Google biết: “Kết quả này sẽ bị ngừng lại! Hãy giảm nó xuống một vài điểm ”.
 
-So it’s logical that RankBrain would measure Dwell Time — and shuffle the results around based on this signal.
+Vì vậy, để hợp lý thì RankBrain sẽ đo lường Dwell Time —  và trộn các kết quả xung quanh dựa trên dấu hiệu này.
 
-In fact, a Google employee recently said that Google used to rely 100% on off-page signals (especially backlinks). Even though Google still uses backlinks, this employee pointed out that:
+Trên thực tế, một nhân viên của Google gần đây đã nói rằng Google đã sử dụng 100% dấu hiệu  off-page (đặc biệt là backlinks). Mặc dù Google vẫn sử dụng backlinks, nhân viên này đã chỉ ra rằng:
 
-And the data backs this up. When we analyzed a massive set of Google search results we found a correlation between high rankings and low bounce rate:
+Và sao lưu dữ liệu này. Khi chúng tôi phân tích một tập hợp lớn các kết quả tìm kiếm của Google, chúng tôi đã tìm thấy mối tương quan giữa xếp hạng cao và tỷ lệ thoát thấp:
 ### How to Reduce Bounce Rate and Boost Dwell Time
 Now it’s time for me to share a few simple strategies that you can use to increase your site’s dwell time.
 **Push Your Content Above the Fold**
