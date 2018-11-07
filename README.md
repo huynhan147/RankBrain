@@ -126,21 +126,21 @@ Và nếu Google thông báo rằng rất nhiều người DỪNG pogo-sticking 
 Tôi sẽ nói nhiều hơn nữa về việc tối ưu hóa tín hiệu UX trong Chương 4 và 5. Nhưng hiện tại, đã đến lúc tôi chỉ cho bạn cách RankBrain thay đổi cách hoạt động của nghiên cứu từ khóa.
 
 ## CHAPTER 3: Nghiên cứu từ khóa trong một thế giới RankBrain
-Như bạn đã thấy, Google giờ đây có thể hiểu Ý MUỐN đằng sau từ khóa.
+Như bạn đã thấy, Google giờ đây có thể hiểu mục tiêu đằng sau từ khóa.
 
-Vậy điều đó có nghĩa là nghiên cứu từ khóa truyền thống đã không còn?
+Vậy điều đó có nghĩa là nghiên cứu từ khóa truyền thống đã không còn / hết thời ?
 
 Không!
 
-Điều đó nói rằng, bạn có thể cần phải tinh chỉnh quy trình nghiên cứu từ khóa của mình để thân thiện với RankBrain hơn.
+Nó có nghĩa là , bạn có thể cần phải tinh chỉnh quy trình nghiên cứu từ khóa của mình để thân thiện với RankBrain hơn.
 
 Dưới đây là cách thực hiện:
 ### Bỏ qua các từ khóa dài (Nó đã lỗi thời)
-Từ khóa dài đã chết.
+Từ khóa dài đã lỗi thời / hết thời.
 
 Ngày trước thì ta tạo ra hàng trăm trang khác nhau ... mỗi một trang được tối ưu hóa xung quanh một từ khóa khác nhau.
 
-Ví dụ: bạn sẽ tạo một trang được tối ưu hóa cho “best keyword research tool”. Và một cách khác được tối ưu hóa cho “best tool for keyword research”.
+Ví dụ: bạn sẽ tạo một trang được tối ưu hóa cho “công cụ nghiên cứu từ khóa tốt nhất”. Và một cách khác được tối ưu hóa cho “công cụ tốt nhất cho nghiên cứu từ khóa”.
 
 Và Google cũ sẽ xếp hạng chúng theo các từ khóa dài tương ứng của chúng.
 
@@ -171,11 +171,11 @@ Ví dụ về quá trình này như thế nào ?
 ### Ví dụ về nghiên cứu từ khóa và SEO trên trang trong thế giới RankBrain
 Một thời gian trở lại đây tôi quyết định viết đánh giá cho tất cả các công cụ SEO mà tôi từng sử dụng.
 
-Kết quả? SEO Tools: The Complete List.
+Kết quả? SEO Tools: Danh sách đầy đủ.
 
 Bởi vì nội dung của tôi cung cấp một số lượng lớn giá trị trên một trang đơn, nó được xếp hạng trong top 5 cho từ khóa đích (độ dài trung bình) của tôi:  SEO Tools.
 
-Nhưng quan trọng hơn thế, RankBrain hiểu rằng trang của tôi là về các khái niệm như :  “SEO Tools”, “SEO software”, “keyword research tools” vv. ...
+Nhưng quan trọng hơn thế, RankBrain hiểu rằng trang của tôi là về các khái niệm như :  "công cụ SEO", "phần mềm SEO", "các công cụ nghiên cứu từ khóa" vân vân ...
 
 Đó là lý do tại sao trang này được xếp hạng cho 1.800 từ khóa khác nhau (theo SEMrush):
 
@@ -188,7 +188,7 @@ Câu hỏi đặt ra là: làm cách nào bạn có thể khiến mọi người
 
 Vâng, đó là chính xác là những gì tôi sẽ đề cập đến trong chương này.
 
-### Pack Your Title Tags With Emotion
+### Đóng gói các cảm xúc vào thẻ Tiêu đề
 Không có nghi ngờ gì về nó: tiêu đề cảm xúc nhận được nhiều nhấp chuột hơn
 
 Đây là một cái gì đó copywriter đã được biết đến trong nhiều năm. Và trong những năm gần đây ý tưởng này đã trở lại. Trong thực tế, CoSchedule tìm thấy một mối tương quan rõ ràng giữa các tiêu đề cảm xúc và chia sẻ trên mạng xã hội cao.
@@ -201,7 +201,7 @@ Không tệ. Nhưng nó thiếu "umph" để thúc đẩy mọi người bấm v
 
 Dưới đây là cách bạn có thể biến thẻ tiêu đề đó thành một thứ nhiều cảm xúc (đồng thời giữ cho nó thân thiện với SEO):
 
-**Crush Your To-Do List With These 17 Productivity Tips**
+**Đè bẹp danh sách việc cần làm của bạn với 17 mẹo năng suất này**
 
 Giờ đây không phải lúc nào tạo tiêu đề cảm xúc cao cũng hiệu quả. Nhưng bất cứ khi nào bạn có thể, bạn nên làm.
 ### Thêm dấu ngoặc và dấu ngoặc đơn vào cuối tiêu đề của bạn
