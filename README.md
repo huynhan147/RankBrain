@@ -263,9 +263,9 @@ Dwell time là lượng thời gian mà một người tìm kiếm Google ở tr
 
 Rõ ràng, càng nhiều người dành nhiều thời gian trên trang của bạn thì càng tốt. Điều này nói với Google: "Man, mọi người đang THÍCH kết quả này. Chúng ta hãy đẩy nó lên một vài điểm ”.
 
-Và nếu một người nào đó thoát trang web của bạn sau 2 giây, điều đó sẽ cho Google biết: “Kết quả này sẽ bị ngừng lại! Hãy giảm nó xuống một vài điểm ”.
+Và nếu một người nào đó thoát trang web của bạn sau 2 giây, điều đó sẽ cho Google biết: “Kết quả này thật tệ! Hãy giảm nó xuống một vài điểm ”.
 
-Vì vậy, để hợp lý thì RankBrain sẽ đo lường Dwell Time —  và trộn các kết quả xung quanh dựa trên dấu hiệu này.
+Vì vậy, để hợp lý thì RankBrain sẽ đo lường Dwell Time —  và xáo trộn các kết quả với nhau dựa trên dấu hiệu này.
 
 Trên thực tế, một nhân viên của Google gần đây đã nói rằng Google đã sử dụng 100% dấu hiệu  off-page (đặc biệt là backlinks). Mặc dù Google vẫn sử dụng backlinks, nhân viên này đã chỉ ra rằng:
 
@@ -317,7 +317,7 @@ Và lần này bạn trúng số độc đắc.
 
 Bạn tìm thấy hướng dẫn toàn diện bao gồm mọi thứ bạn cần biết về việc chạy marathon.
 
-Vì vậy, bạn lấy một tách cà phê và đọc hướng dẫn từ đầu đến cuối. Bạn thậm chí còn đọc lại một số phần nhất định. Tất cả những bài đọc này đều có Dwell Time nghiêm túc.
+Vì vậy, bạn lấy một tách cà phê và đọc hướng dẫn từ đầu đến cuối. Bạn thậm chí còn đọc lại một số phần nhất định. Tất cả những bài đọc này đều tăng Dwell Time 1 cách rõ rệt
 
 Nội dung dạng dài hoạt động tốt đến mức tôi CHỈ xuất bản nội dung có ít nhất 2.000 từ.
 
@@ -342,7 +342,7 @@ Trong chương này, tôi sẽ giới thiệu một số chiến lược nhanh m
 ### Increase Brand Awareness. Improve CTR
 Tôi đã chỉ cho bạn cách như thêm số, cảm xúc và từ ngữ mạnh để có thể cải thiện CTR mà không phải trả phí.
 
-Nhưng có một cách khổng lồ khác mà tôi chưa đề cập đó là : Nhận thức về thương hiệu
+Nhưng có một biến số quan trọng khác mà tôi chưa đề cập đó là : Nhận thức về thương hiệu
 
 Không cần phải nói, nếu ai đó biết thương hiệu của bạn, họ có nhiều khả năng nhấp vào trang web của bạn hơn trong kết quả tìm kiếm. Trên thực tế, dữ liệu từ WordStream nhận thấy rằng nhận thức về thương hiệu có thể tăng CTR lên tới 342%!
 
